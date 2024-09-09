@@ -1,0 +1,21 @@
+{
+  "name": "@i18n.addon/toc",
+  "version": "0.1.22",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n-site/addon.git"
+  },
+  "homepage": "https://atomgit.com/i18n-site/addon/tree/dev/toc",
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "keywords": [
+    "i18n.site:addon"
+  ],
+  "files": [
+    "lib/*"
+  ],
+  "type": "module",
+  "dependencies": {
+    "@i18n.addon/yml": "workspace:^"
+  }
+}

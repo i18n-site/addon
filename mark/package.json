@@ -1,0 +1,21 @@
+{
+  "name": "@i18n.addon/mark",
+  "version": "0.1.6",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n-site/addon.git"
+  },
+  "homepage": "https://atomgit.com/i18n-site/addon/tree/dev/mark",
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "keywords": [],
+  "files": [
+    "lib/*"
+  ],
+  "devDependencies": {
+    "@3-/mark": "^0.1.5",
+    "esbuild": "^0.23.1"
+  },
+  "scripts": {},
+  "type": "module"
+}

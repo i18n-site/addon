@@ -1,0 +1,20 @@
+{
+  "name": "@i18n.addon/mouse",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomgit.com/i18n-site/addon.git"
+  },
+  "homepage": "https://atomgit.com/i18n-site/addon/tree/dev/mouse",
+  "author": "i18n.site@gmail.com",
+  "license": "Apache-2.0",
+  "keywords": [
+    "i18n.site:addon"
+  ],
+  "files": [
+    "lib/*"
+  ],
+  "devDependencies": {},
+  "scripts": {},
+  "type": "module"
+}
